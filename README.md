@@ -1,8 +1,9 @@
 # DBS
 
-	Introduction to Database Design and SQL
+### Subject
+Introduction to Database Design and SQL
   
-  Description
+### Description
   
   This subject introduces students to relational database design and SQL (Structured Query Language) 
   used with relational databases. Students will be introduced to  relational and object oriented models 
